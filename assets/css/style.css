@@ -1,0 +1,41 @@
+/* CSS file for Homework #5 */
+
+body {
+  background-image: url("../images/photo-1558980664-4d79c6e77b93.jpg");
+  color: white;
+  text-align: left;
+  font-family: "Righteous", cursive;
+}
+
+.cover-heading {
+  margin-top: 40px;
+  font-size: 80px;
+}
+
+#game-start {
+  margin-top: 70px;
+  font-size: 40px;
+}
+
+#countdown {
+  font-size: 26px;
+  color: rgb(201, 12, 12);
+}
+
+#game-done {
+  font-size: 40px;
+}
+
+.lead2 {
+  font-size: 30px;
+  color: skyblue;
+}
+
+.quest {
+  font-size: 26px;
+  color: yellow;
+}
+
+.text-mysize {
+  font-size: 20px;
+}
